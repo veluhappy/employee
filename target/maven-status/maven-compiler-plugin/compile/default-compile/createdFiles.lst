@@ -1,0 +1,6 @@
+com\employee\Application.class
+com\employee\resource\EmployeeResource.class
+com\employee\service\EmployeeService.class
+com\employee\Swagger2Config.class
+com\employee\repository\EmployeeRepository.class
+com\employee\modal\EmployeeDetails.class
